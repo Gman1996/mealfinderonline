@@ -64,7 +64,7 @@
                     {
                         params: {
                             address: location,
-                            key: 'AIzaSyAAi_SaBZq-r3EkRuoAeJ0O5_XCzTNWn2g',
+                            key: 'AIzaSyD5B7pgGcFnVuX2N10a54TXcOvHuv1jRmU',
                             region: 'NG'
                         }
                     }
