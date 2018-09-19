@@ -7,7 +7,7 @@
                 <div class="burgernav"></div>
             </div>
             <ul v-bind:class="{show: show}">
-                <li class="menu"><a href="/">MealFinder</a></li>
+                <li class="menu"><a href="/">MealFinder Change</a></li>
                 <li class="menu"><a href="/login">Login</a></li>
                 <li class="menu"><a href="/register">Register</a></li>
                 <li class="menu"><a href="#f">Twitter <i class="fa fa-twitter"></i></a></li>
